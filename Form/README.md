@@ -1,4 +1,5 @@
 📝 Responsive Registration Form – Web Application
+
 🔹 Project Description
 
 Responsive Registration Form is a frontend web application designed to collect user details through a structured and mobile-friendly interface. The form adjusts automatically to different screen sizes, ensuring a smooth user experience across devices.
@@ -42,10 +43,6 @@ Responsive web design using CSS
 Basic JavaScript validation
 
 Real-time user input handling
-
-🔹 Screenshots
-
-(You can add screenshots of the registration form here)
 
 🔹 Future Enhancements
 
